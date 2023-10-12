@@ -9,7 +9,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "5900432090:AAGh66GjvNR0fnGCiOngV4rC5tg5
 PASS_DB = int(os.environ.get("PASS_DB", "100"))
 
 OWNER = int(os.environ.get("OWNER", 6175650047))
-LOG = -1001745239130,
+LOG = -1001923813329,
 
 try:
     ADMINS=[]
